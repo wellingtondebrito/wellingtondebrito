@@ -10,6 +10,8 @@ O caminho para chegar até aqui foi muito difícil, pois tive que trabalhar em �
 
 Gosto de trabalhar em equipe e acredito que se um time tem unidade e confiança uns nos outros e nos processos, os seus resultados podem ser surpreendentes. Não basta apenas desenvolver um produto e estético, o produto deve-se ser funcional e gerar ótimas recordações ao usuário e uma equipe motivada e unida pode gerar grandes resultados.
 
+
+[![Github Badge]
 <!--
 **wellingtondebrito/wellingtondebrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
