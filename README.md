@@ -12,6 +12,7 @@ Gosto de trabalhar em equipe e acredito que se um time tem unidade e confiança 
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wellingtondebrito)](https://github.com/wellingtondebrito)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellingtondebrito/)](https://www.linkedin.com/in/wellingtondebrito/)
 <!--
 **wellingtondebrito/wellingtondebrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
