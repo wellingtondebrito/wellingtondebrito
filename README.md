@@ -5,6 +5,15 @@
 
 - 📫 Ondo me encontrar **wellingtondebriito@gmail.com**
 
+Recém graduado em design gráfico, atualmente estou focado em aprender novas habilidades e direcionando a minha carreira para o desenvolvimento web, onde foi nesta área que encontrei minha paixão pela tecnologia.
+
+Estudando desenvolvimento Full Stack pela Labenu onde adquiri as habilidades e algumas experiências em Git, Github, HTML, CSS, Javascript e React JS, Sass.
+
+O caminho para chegar até aqui foi muito difícil, pois tive que trabalhar em áreas que não eram minha paixão, mas por necessidade tinha que encara-los de peito aberto, fui operador de telemarketing, vendedor, office boy, arte finalista e técnico de manutenção de rede telefônica.
+
+Gosto de trabalhar em equipe e acredito que se um time tem unidade e confiança uns nos outros e nos processos, os seus resultados podem ser surpreendentes. Não basta apenas desenvolver um produto e estético, o produto deve-se ser funcional e gerar ótimas recordações ao usuário e uma equipe motivada e unida pode gerar grandes resultados.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wellingtondebrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wellingtondebrito" height="30" width="40" /></a>
