@@ -3,7 +3,7 @@
 
 - 🌱 Eu estou estudando **React Native, Sass, Typescript, Next Js, Firebase,aws, mySQL**
 
-- 📫 Ondo me encontrar **wellingtondebriito@gmail.com**
+- 📫 Meu E-mail: **wellingtondebriito@gmail.com**
 
 Recém graduado em design gráfico, atualmente estou focado em aprender novas habilidades e direcionando a minha carreira para o desenvolvimento web, onde foi nesta área que encontrei minha paixão pela tecnologia.
 
