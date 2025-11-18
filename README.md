@@ -46,6 +46,8 @@ Desenvolvedor Web Fullstack Júnior com foco em <strong>desenvolvimento mobile n
 - Docker e boas práticas de DevOps  
 - CI/CD com GitHub Actions  
 - Fundamentos de Cloud (AWS/GCP)
+- N8N
+- Angular
 
 ---
 
