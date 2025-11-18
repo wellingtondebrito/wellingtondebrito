@@ -9,7 +9,7 @@ Desenvolvedor Web Fullstack Júnior com foco em <strong>desenvolvimento mobile n
 ### 🚀 Stack Principal
 
 - 🧠 **Back-end:** Java · Spring Boot  · Node JS · Nest Js
-- 🎨 **Front-end:** React.js · HTML5 · CSS3 · JavaScript  
+- 🎨 **Front-end:** React.js · HTML5 · CSS3 · JavaScript · Next JS 
 - 📱 **Mobile:** React Native · Expo · Kotlin *(em progresso)*  
 - 🛢️ **Banco de dados:** PostgreSQL
 
