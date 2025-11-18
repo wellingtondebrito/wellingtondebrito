@@ -52,7 +52,7 @@ Desenvolvedor Web Fullstack Júnior com foco em <strong>desenvolvimento mobile n
 ### 📌 Projetos em destaque
 
 - [`📱 Meu App em React Native`](https://github.com/wellingtondebrito/gerador-de-senhas) – App mobile criado com Expo  
-- [`🌐 API Java com Spring`](https://github.com/wellingtondebrito/quadra-agendamentos-api) – Backend RESTful com Spring Boot  
+- [`🌐 Projeto Full Stack`](https://github.com/wellingtondebrito/pet-services-scheduler) – Backend RESTFul com Nest Js e Prisma ORM e Front-End em Next Js com Tailwind CSS  
 
 
 ---
