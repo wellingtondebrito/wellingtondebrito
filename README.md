@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Wellington de Brito 👋</h1>
 
 <p align="center">
-Desenvolvedor Web Fullstack Júnior com foco em <strong>desenvolvimento mobile nativo</strong>. Atualmente aprofundando meus estudos em Kotlin para criar aplicações Android modernas e escaláveis.  
+Desenvolvedor Front-End Júnior com foco em <strong>desenvolvimento web e mobile</strong>. Atualmente aprofundando meus estudos em Desenvolvimento Web para criar aplicações modernas e escaláveis.  
 </p>
 
 ---
